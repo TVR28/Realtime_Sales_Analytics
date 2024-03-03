@@ -17,7 +17,7 @@ This repository contains an Apache Flink application for real-time sales analyti
 
 ## Architecture
 
-![Alt Text]("Realtime_Sales_Analytics/System Architecture.png")
+[![Alt Text]("Realtime_Sales_Analytics/System Architecture.png")](https://github.com/TVR28/Realtime_Sales_Analytics/blob/main/System%20Architecture.png?raw=true)
 
 
 ## Installation and Setup
