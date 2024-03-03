@@ -1,6 +1,14 @@
-# Real Time Sales Analytics with Apache Flink, ZooKeeper, Elasticsearch, Kafka and PostgresSQL
+# Real Time Sales Analytics with Apache Flink
 
 This repository contains an Apache Flink application for real-time sales analytics built using Docker Compose to orchestrate the necessary infrastructure components, including Apache Flink, Elasticsearch, kafka and Postgres. The application processes financial transaction data from Kafka, performs aggregations, and stores the results in both Postgres and Elasticsearch for further analysis.
+
+## Tools Used
+- `Apache Flink`
+- `Kafka`
+- `ZooKeeper`
+- `PostgreSQL`
+- `Elasticsearch`
+- `Kibana`
 
 ## Requirements
 
